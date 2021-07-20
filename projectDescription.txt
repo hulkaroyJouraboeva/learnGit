@@ -1,5 +1,5 @@
 /Users/hulkaroyjouraboeva/codesmithGit/learnGit/projectDescription.txt
 
 The Expat Woman Hackathon 2021 - choose to challenge
-Data:
-Author:
+Date: July 20, 2021
+Author: 
